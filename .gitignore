@@ -3,7 +3,7 @@
 *.o
 *.DS_Store
 roborobo
-/analysis/*.csv
-/analysis/*.pdf
-/nov-experiments/*.csv
-/nov-experiments/*.pdf
+/analysis/**/*.csv
+/analysis/**/*.pdf
+/nov-experiments/**/*.csv
+/nov-experiments/**/*.pdf
